@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>BSides London 2023</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="/themes/core/static/img/favicon.ico?d=cb5ebf52" type="image/x-icon">
+	<link rel="stylesheet" href="https://cdn.cloud.ctfd.io/bsideslondon2023/themes/core/static/css/fonts.min.css?t=1696632333">
+	<link rel="stylesheet" href="https://cdn.cloud.ctfd.io/bsideslondon2023/themes/core/static/css/main.min.css?t=1696632333">
+	<link rel="stylesheet" href="https://cdn.cloud.ctfd.io/bsideslondon2023/themes/core/static/css/core.min.css?t=1696632333">
+	
+	
+
+	
+	<script type="text/javascript">
+		var init = {
+			'urlRoot': "",
+			'csrfNonce': "672463bb6cc14ba0e4dde338b747d9d246acf364625fd953eba66b6b129630d5",
+			'userMode': "users",
+			'userId': 0,
+			'userName': null,
+			'userEmail': null,
+			'teamId': null, 
+			'teamName': null,
+			'start': 1701853200,
+			'end': 1702141200,
+			'theme_settings': null
+		}
+	</script>
+	
+</head>
+<body>
+	<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+    <div class="container">
+        <a href="/" class="navbar-brand">
+            
+                <img class="img-responsive ctf_logo" src="/files/d4690cce18c84a4e46dff92cb2578d0e/banner-left.png" height="25" alt="BSides London 2023">
+            
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#base-navbars"
+                aria-controls="base-navbars" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="base-navbars">
+            <ul class="navbar-nav mr-auto">
+                
+                    <li class="nav-item">
+                        <a class="nav-link" href="/tracebit">About Tracebit</a>
+                    </li>
+                
+                    <li class="nav-item">
+                        <a class="nav-link" href="/leighhack">About Leigh Hackspace</a>
+                    </li>
+                
+                    <li class="nav-item">
+                        <a class="nav-link" href="/withsec">About WithSecure</a>
+                    </li>
+                
+                    <li class="nav-item">
+                        <a class="nav-link" href="/prizes">CTF Prizes</a>
+                    </li>
+                
+
+                
+                    <li class="nav-item">
+                        <a class="nav-link" href="/users">Users</a>
+                    </li>
+                    
+                
+
+                
+                    <li class="nav-item">
+                        <a class="nav-link" href="/scoreboard">Scoreboard</a>
+                    </li>
+                
+
+                <li class="nav-item">
+                    <a class="nav-link" href="/challenges">Challenges</a>
+                </li>
+            </ul>
+
+            <hr class="d-sm-flex d-md-flex d-lg-none">
+
+            <ul class="navbar-nav ml-md-auto d-block d-sm-flex d-md-flex">
+                
+                    
+                        <li class="nav-item">
+                            <a class="nav-link" href="/register">
+                                <span class="d-block" data-toggle="tooltip" data-placement="bottom" title="Register">
+                                    <i class="fas fa-user-plus d-none d-md-block d-lg-none"></i>
+                                </span>
+                                <span class="d-sm-block d-md-none d-lg-block">
+                                    <i class="fas fa-user-plus pr-1"></i>Register
+                                </span>
+                            </a>
+                        </li>
+                    
+                    <li class="nav-item">
+                        <a class="nav-link" href="/login">
+                            <span class="d-block" data-toggle="tooltip" data-placement="bottom" title="Login">
+                                <i class="fas fa-sign-in-alt d-none d-md-block d-lg-none"></i>
+                            </span>
+                            <span class="d-sm-block d-md-none d-lg-block">
+                                <i class="fas fa-sign-in-alt pr-1"></i>Login
+                            </span>
+                        </a>
+                    </li>
+                
+            </ul>
+        </div>
+    </div>
+</nav>
+
+	<main role="main">
+		
+
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+			<div class="pt-5 mt-5 text-center">
+				<h1>Forbidden</h1>
+				<hr class="w-50">
+				<h2>You don&#39;t have the permission to access the requested resource. It is either read-protected or not readable by the server.</h2>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+	</main>
+
+	<footer class="footer">
+		<div class="container text-center">
+			<a href="https://ctfd.io" class="text-secondary">
+				<small class="text-muted">Powered by CTFd</small>
+			</a>
+		</div>
+	</footer>
+
+	<script defer src="https://cdn.cloud.ctfd.io/bsideslondon2023/themes/core/static/js/vendor.bundle.min.js?t=1696632333"></script>
+	<script defer src="https://cdn.cloud.ctfd.io/bsideslondon2023/themes/core/static/js/core.min.js?t=1696632333"></script>
+	<script defer src="https://cdn.cloud.ctfd.io/bsideslondon2023/themes/core/static/js/helpers.min.js?t=1696632333"></script>
+
+	
+	<script defer src="https://cdn.cloud.ctfd.io/bsideslondon2023/themes/core/static/js/pages/main.min.js?t=1696632333"></script>
+	
+
+	
+
+
+	<script defer src="https://cdn.cloud.ctfd.io/bsideslondon2023/static/recaptcha.js?t=cb5ebf52"></script>
+<script defer src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"></script>
+
+	
+</body>
+</html>
